@@ -1,6 +1,6 @@
-- name: Blog
-  link: /blog/
-- name: About
-  link: /about/
+# - name: Blog
+#   link: /blog/
+- name: Cenni Storici
+  link: /Cenni_Storici/
 - name: Contact
   link: /contact/
