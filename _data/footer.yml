@@ -3,6 +3,8 @@ left_links:
   #   link: /blog/
   - name: Cenni Storici
     link: /cenni_storici/
+  - name: Chi Siamo
+    link: /chi_siamo/
   - name: Contact
     link: /contact/
 right_links:
