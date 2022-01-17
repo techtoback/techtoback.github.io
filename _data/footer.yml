@@ -5,6 +5,14 @@ left_links:
     link: /cenni_storici/
   - name: Chi Siamo
     link: /chi_siamo/
+  - name: Attività Pastorali
+    link: /attivita_pastorali/
+  - name: Oratorio
+    link: /oratorio/
+  - name: Info
+    link: /info/
+  - name: Vita Liturgica
+    link: /vita_liturgica/
   - name: Contact
     link: /contact/
 right_links:
