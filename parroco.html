@@ -8,17 +8,15 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
 
 </section>
 
-<section class="pad">
-	<div class="container">
-		<p class="editor-link"><a href="cloudcannon:collections/_staff_members" class="btn"><strong>&#9998;</strong> Manage Staff Members</a></p>
-		<ul class="staff">
-			{% for person in site.staff_members %}
-				<li>
-					<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
-					<div class="name"><a target="_blank" href="https://twitter.com/{{ person.twitter_username }}">{{ person.name }}</a></div>
-					<div class="position">{{ person.position }}</div>
-				</li>
-			{% endfor %}
-		</ul>
+
+<section class="info">
+	<div class="container flex">
+		<div class="text">
+			<h2 class="editable">Don Faustino</h2>
+			<p class="editable">Nato a xyw il 5 Febbraio 19xx, Faustin Cancel segue studi ........</p>
+		</div>
+		<div class="image">
+			<img class="editable" src="https://raw.githubusercontent.com/techtoback/techtoback.github.io/main/don_faustino.jpg" alt="Screenshot" />
+		</div>
 	</div>
 </section>
