@@ -1,20 +1,20 @@
-# - name: Blog
-#   link: /blog/
+ - name: Home
+   link: /
 - name: Cenni Storici
   link: /cenni_storici/
-- name: Parroco
-  link: /parroco/
-- name: Consiglio Pastorale
-  link: /consiglio_pastorale/
-- name: Chi Siamo
-  link: /chi_siamo/
-- name: Attività Pastorali
-  link: /attivita_pastorali/
-- name: Oratorio
-  link: /oratorio/
-- name: Info
-  link: /info/
-- name: Vita Liturgica
-  link: /vita_liturgica/
+#- name: Parroco
+#  link: /parroco/
+#- name: Consiglio Pastorale
+#  link: /consiglio_pastorale/
+#- name: Chi Siamo
+#  link: /chi_siamo/
+#- name: Attività Pastorali
+#  link: /attivita_pastorali/
+#- name: Oratorio
+#  link: /oratorio/
+#- name: Info
+#  link: /info/
+#- name: Vita Liturgica
+#  link: /vita_liturgica/
 - name: Contact
   link: /contact/
