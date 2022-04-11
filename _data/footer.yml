@@ -3,8 +3,6 @@ left_links:
     link: /home/
   - name: Cenni Storici
     link: /cenni_storici/
-  - name: Contatti
-    link: /contact/
   #- name: Parroco
   #  link: /parroco/
   #- name: Consiglio Pastorale
@@ -17,6 +15,8 @@ left_links:
   #  link: /info/
   #- name: Vita Liturgica
   #  link: /vita_liturgica/
+  - name: Contatti
+    link: /contact/
 
 right_links:
   - name:
